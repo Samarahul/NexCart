@@ -46,9 +46,7 @@ NexCart enhances the shopping experience by:
 
 ## 📞 Contact  
 For any queries or collaboration opportunities, reach out to:  
-📧 Email: your-email@example.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourprofile)  
+📧 Email: rahulsama321@gmail.com
 
 ---
 
-This **README.md** ensures that your project looks professional and well-documented on GitHub. Let me know if you want any modifications! 🚀
