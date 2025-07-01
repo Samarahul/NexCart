@@ -1,0 +1,13 @@
+train: ../test/images
+val: ../valid/images
+test: ../test/images
+
+nc: 35
+names: ['Aer Matic Violet Valley Bloom Automatic Spray Diffuser Refill 225 ml', 'Amul Butter', 'Badshah Afgani Hing', 'Baygon Mosquito - Fly Killer Spray 625 ml', 'Bisleri Club Soda - 750 ml', 'Bisleri Packaged Drinking Water 250 ml', 'Brooke Bond Red Label Leaf Tea 500 g', 'Cadbury Bournvita Chocolate Health Drink-1kg-', 'Catch Ginger Garlic Paste 200 g', 'Ching-s secret schezwan fried masala', 'Chings Secret Veg Hakka Noodles 140 g Pouch', 'Coca-Cola-600 ml-', 'Dettol Bathing Soap Bar - Original 125g', 'Dettol Original Instant Hand Sanitizer 50 ml', 'Everest Chaat Masala 50 g', 'Everest Chicken Masala 100 g', 'Everest Pav Bhaji Masala 100 g', 'Exo Touch - Shine Anti-Bacterial Round Dishwash Bar 500 g', 'Fogg Napoleon Fragrance Body Spray 150 ml', 'Fortune Sunlite Refined Sunflower Oil 5 L', 'Godrej Aer Lush Green Fresh Home Fragrance Spray 220 ml', 'Gokul Milk 500ml', 'Gold Oil', 'Govardhan Pure cow Ghee -1kg-', 'Govardhan Pure cow Ghee -200ml-', 'HERSHEY-S Chocolate Flavored Syrup 200g', 'Knorr Pizza Pasta Sauce', 'LG Compounded Hing Powder 50 g', 'Mysore Sandal Soap 150 g -Pack of 3-', 'Nescafe Classic Instant Coffee 24 g', 'Pintola High Protein Peanut Butter-510 gm-', 'Pond-s Dreamflower Pink Lily Fragrant Talc 400 g', 'Society Leaf Tea 250g Jar', 'Tata Salt Vacuum Evaporated Iodised Salt  1 kg Pouch', 'appy fizz apple juice -250 ml-']
+
+roboflow:
+  workspace: nmims-b6ta9
+  project: retail-store-indian-new
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nmims-b6ta9/retail-store-indian-new/dataset/1
