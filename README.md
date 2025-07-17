@@ -147,10 +147,10 @@ npm start
 
 ## 👨‍💻 Author
 
-**Saketh Pinumalla**  
+**Rahul Sama**  
 Finalist – Smart India Hackathon  
 🚀 Tech Stack: Python, React, OpenCV, MySQL, Raspberry Pi  
-🔗 [LinkedIn](https://www.linkedin.com/in/sakethpinumalla/) • [GitHub](https://github.com/SakethPinumalla)
+🔗 [LinkedIn](https://www.linkedin.com/in/rahul-sama-6b21502a1/) • [GitHub](https://github.com/Samarahul)
 
 ---
 
