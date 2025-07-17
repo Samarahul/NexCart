@@ -33,7 +33,7 @@ except mysql.connector.Error as err:
     exit(1)
 
 # Load YOLO model
-model_path = "./objectdetection/runs/detect/train/weights/best1.pt"
+model_path = "best1.pt"
 model = YOLO(model_path)
 logging.info("YOLO model loaded successfully.")
 
