@@ -1,0 +1,47 @@
+# ===================== #
+# React (Frontend)      #
+# ===================== #
+node_modules/
+.pnp/
+.pnp.js
+coverage/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===================== #
+# Flask (Backend)       #
+# ===================== #
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.sqlite3
+*.log
+
+# Ignore training folders if large (optional)
+backend/objectdetection/runs/
+backend/objectdetection/train/
+backend/objectdetection/valid/
+backend/objectdetection/test/
+
+# ===================== #
+# General               #
+# ===================== #
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.swp
+
+# Git LFS (Optional if using large weights)
+# Uncomment if not using Git LFS
+# *.pt
